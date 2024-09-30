@@ -1,1 +1,2 @@
-[![Watch the video](https://github.com/NaitikSinghal/k8s-mongodb-mongoexpress/blob/main/bandicam%202024-09-30%2018-32-31-015.mp4)]
+[![Watch the video](https://drive.google.com/file/d/1-vXrpGiwSYTHJhWHmq6Xr0FS7aJSZVdA/view?usp=sharing)]
+(https://drive.google.com/file/d/1-vXrpGiwSYTHJhWHmq6Xr0FS7aJSZVdA/view?usp=sharing)
